@@ -1,6 +1,6 @@
 {
-  "data_dir": "/Users/emmarocheteau/PycharmProjects/ARDS-Temporal-Clustering/amsterdam_data/",
-  "log_path": "/Users/emmarocheteau/PycharmProjects/ARDS-Temporal-Clustering/logs/",
-  "ray_dir": "/Users/emmarocheteau/PycharmProjects/ARDS-Temporal-Clustering/ray_results/"
+  "data_dir": "/Users/emmarocheteau/PycharmProjects/Mechanical-Ventilation-Clustering/amsterdam_data/",
+  "log_path": "/Users/emmarocheteau/PycharmProjects/Mechanical-Ventilation-Clustering/logs/",
+  "ray_dir": "/Users/emmarocheteau/PycharmProjects/Mechanical-Ventilation-Clustering/ray_results/"
 
 }
