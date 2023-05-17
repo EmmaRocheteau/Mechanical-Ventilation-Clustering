@@ -26,7 +26,7 @@ The advancement of Electronic Health Records (EHRs) and machine learning have en
 
 TBD
 
-## Pre-processing Instructions
+## Pre-Processing Instructions
 
 1) To run the sql files you must have the AmsterdamUMCdb database set up: https://amsterdammedicaldatascience.nl/amsterdamumcdb.
 
